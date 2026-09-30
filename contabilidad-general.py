@@ -1,0 +1,1 @@
+print("contabilidad general")
